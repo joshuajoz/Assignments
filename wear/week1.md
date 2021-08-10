@@ -1,7 +1,7 @@
 # Weekend Article
 	* the topics that are learned in intern during last week and the information that i understood in this intern and the knowledge that are gained 
 
-#Day1 
+# Day1 
 
  * I learned the basic fundamental skills to improve my knowledge in programing ,those fundamental skills that i learned are
 	-Reading
@@ -36,7 +36,7 @@ these are the fundamental skills i learned to improve my knowledge
  * On this day i have learned more about the mathemetical thinking and problem solving . There are some problems that can be solved and there are some problem that cant be solved ,at first we sholud understand the question clearly to solve the problem
  * If a problem is unsolvable then the problem can be solved by using eulers graph theory
  * I have learned that from a hamiltanion path method each node should be attached with a single edge and all the nodes should be connected
- * There are different  type of markup yaml, html,xml .In html the <h1> is used to denote headings and <h1/> to close the heading it will be presented only if the file is opened and closed like thid for evrey tags like <p> for para,<ul> for unordered list ,<u> for ordered list,<li> for list the items
+ * There are different  type of markup yaml, html,xml .In html the "h1" is used to denote headings and "h1/" to close the heading it will be presented only if the file is opened and closed like thid for evrey tags like "p" for para,"ul" for unordered list ,"u" for ordered list,"li" for list the items
 
 # Day5 
 
