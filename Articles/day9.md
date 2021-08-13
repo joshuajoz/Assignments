@@ -1,0 +1,6 @@
+# Day9
+
+* I learned some skills today about how to solve a problem that problem maybe difficult or easy that may have some difficult problems within it .we should solve the problem by mathematical thinking
+* I learned how to train my mind to write any essay using html.
+* I leaned about the features of whatsapp about how they built and what are the purposes of whatsapp .In whatsapp there are many option available it was first created to send message using internet to save the cost of sms .it became famous because of that and in this developing society it should show some improvements then they built it with many options sharing images and videos .we can set wallpapers and profile photos .There are different language options available ,live locations can be shared .We can use it to call using vioce and video all over the world .Payments can be done using whatsapp.status option is available in this we shall upload a video or image or a text to say something about our current situation or current mode like this there are many option available in a application like whatsapp
+* There is a method used in problem solving and mathemetical thinking that is recursion this method can be used solve the problem easily.
