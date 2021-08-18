@@ -1,0 +1,5 @@
+# Day11
+
+* Today i learned about languages ,every languages has space and punchvations to represent a word and each word has seperate meaning . If there is no space inbetween the meaning of the word may change ,so that space are used to give a word seperate meaning. That is for example,if there is a sentance like "He is nowhere" and "He is now here" both are the same words nowhere and now here thay gives seperate meanings for a single word if the both words are combined then it also gives a meaning but the meaning of the sentance is changed ,so space and punchvations are used.
+* vowels are the letters that gives meaning to a word . Every language has somthing like that in tamil there are 'uyir mei yeluthukal' to give a meaning to a word and to seperate a word.
+* Whatsapp ;I learned more about whatsapp that is what are the features of whatsapp .I have given with a assignment that i an go through the basics and its features.I have learned many specific feature about watsapp and the history of whatsapp why they were build? and what they improved to stay in the market.
